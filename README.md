@@ -20,6 +20,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
 
 ### Big Data & Data Engineering
 - **Frameworks:** Apache Spark, Hadoop, Flink
@@ -29,9 +30,14 @@
 - **ETL/ELT:** Data pipeline design & optimization
 
 ### Web Development
-- **Backend:** Java Web, Spring Framework, RESTful APIs
+- **Backend:** Java Web, Spring Framework, RESTful A, Python (Flask), Go, RESTful APIs
 - **Frontend:** JavaScript, HTML5, CSS3
 - **Full-stack:** End-to-end application development
+
+### Web3 & Blockchain
+- **Smart Contracts:** Solidity (Ethereum)
+- **Blockchain Development:** Rust
+- **Web3 Applications:** Decentralized applications (DApps)
 
 ### Tools & DevOps
 - **Version Control:** Git, GitHub, GitLab
@@ -39,11 +45,12 @@
 - **Operating Systems:** Linux (proficient)
 - **Build Tools:** Maven, Gradle
 - **CI/CD:** Jenkins, GitLab CI
+- **AI Development Tools:** Cursor, GitHub Copilot
 
 ## 🌱 Currently Learning & Exploring
-- 🤖 **AI & LLM Applications** - Building intelligent applications with large language models
-- ⛓️ **Web3 Technology** - Smart contract development and blockchain applications
-- ☁️ **Cloud-Native Technologies** - Kubernetes, microservices architecture
+- 🤖 **AI & LL- Leveraging AI coding tools (Cursor) for productivity and development
+- ⛓️ **Web3 Technol- Smart contract development with Solidity and Rust
+- ☁️ **Cloud-Native Technologies*- Kubernetes, microservices with Go
 - ⚡ **Real-time Data Processing** - Stream processing optimization
 
 ## 🎯 What I'm Looking For
