@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋, I'm Sawyer
 
-<!--
-**sawyer886/sawyer886** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+A Data Engineer passionate about Big Data & Distributed Systems, based in Hong Kong.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- **Languages:** Java, Scala, Python, Ruby
+- **Big Data:** Apache Spark, HBase, Hadoop
+- **Databases:** SQL, NoSQL
+- **Tools:** Git, Docker, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Advanced distributed computing
+- Real-time data processing
+- Cloud-native technologies
+
+## 📫 How to Reach Me
+- GitHub: [@sawyer886](https://github.com/sawyer886)
+- Location: Hong Kong, HK
+
+## ⚡ Fun Fact
+I love exploring new technologies and building scalable data solutions!
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sawyer886&show_icons=true&theme=radical)
